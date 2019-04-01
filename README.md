@@ -1,0 +1,1 @@
+# YoutubeMusicSwitch-WebExtension
