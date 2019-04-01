@@ -1,0 +1,20 @@
+{
+    "manifest_version": 2,
+    "name": "SwitchYoutubeMusic",
+    "version": "1.0",
+    "description": "Switch between Youtube video and its Youtube Music equivalent",
+    "icons": {
+        "48": "/icons/iconfinder_youtube_3204079.svg"
+    },
+    "browser_action": {
+        "default_icon": "/icons/iconfinder_youtube_3204079.svg"
+    },
+    "background": {
+        "scripts": [
+            "background-script.js"
+        ]
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
